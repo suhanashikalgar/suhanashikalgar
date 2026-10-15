@@ -20,21 +20,21 @@ A telecom analytics project exploring infrastructure planning through data analy
 
 **Technologies:** Python, DBSCAN, Random Forest, LSTM, Flask, Plotly
 
-[View Repository](https://github.com/suhanashikalgar)
+[View Repository](https://github.com/suhanashikalgar/Telecom-Infrastructure.git)
 
 ### Translator Application
 A desktop-based translation application integrating Java, MySQL, and a translation API.
 
 **Technologies:** Java, MySQL, Swing, API integration
 
-[View Repository](https://github.com/suhanashikalgar)
+[View Repository](https://github.com/suhanashikalgar/java.git)
 
 ### AI & Computer Vision Projects
 Exploring computer vision and AI applications, including hand-pose detection and other practical machine learning projects.
 
 **Technologies:** Python, OpenCV, MediaPipe
 
-[Explore My Repositories](https://github.com/suhanashikalgar?tab=repositories)
+[Explore My Repositories](https://github.com/suhanashikalgar/computer-vision.git)
 
 ## Certifications
 
